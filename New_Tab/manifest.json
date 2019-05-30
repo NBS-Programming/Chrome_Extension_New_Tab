@@ -1,0 +1,10 @@
+//Manifest for Nightingale Calendar App
+{
+   "name": "8 Day Calendar",
+   "version": "1.0",
+   "description": "NBS Calendar Chrome Extension",
+   "manifest_version": 2,
+   "chrome_url_overrides": {
+     "newtab": "calendar.html"
+   }
+}
